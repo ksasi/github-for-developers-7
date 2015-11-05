@@ -3,3 +3,4 @@
  - [ ] Aloo
  - [ ] Photography
  - [ ] Favourite Color - Green
+- [ ] Favourite game - Cricket
